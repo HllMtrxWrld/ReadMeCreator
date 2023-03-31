@@ -7,7 +7,9 @@ This application is made for fast and comfortable creating a professional readme
 In order to use this app you need to install Node and Inquirer NPM. Then run "node index.js" command in the terminal.
 
 ## Usage
-This app can be used in order to create a professional readme file.
+This app can be used in order to create a professional readme file. 
+
+[![Watch the video](./ReadMeCreator%20demo.mp4)]
 
 ## Contributing
 N/A
